@@ -3,6 +3,12 @@
 This repository contains an interactive **Power BI dashboard** analyzing sales and operational performance for **Blinkit**, an instant delivery platform. The dashboard provides insights into sales, product categories, customer behavior, and performance metrics.
 
 ---
+## 📸 Dashboard Preview
+Here’s a snapshot of the dashboard:  
+
+![Blinkit Dashboard](images/Screenshot 2025-08-24 104256.png)
+
+---
 
 ## 🚀 Project Overview
 The **Blinkit Sales Dashboard** helps business stakeholders track:
