@@ -6,7 +6,7 @@ This repository contains an interactive **Power BI dashboard** analyzing sales a
 ## 📸 Dashboard Preview
 Here’s a snapshot of the dashboard:  
 
-![Blinkit Dashboard](images/Screenshot 2025-08-24 104256.png)
+![Blinkit Dashboard](images/Dashboard.png)
 
 ---
 
